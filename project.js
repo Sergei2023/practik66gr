@@ -1,1 +1,1 @@
-console.log('privet');
+console.log('проверка');
